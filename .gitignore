@@ -1,0 +1,50 @@
+# Backend
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/*.iml
+backend/.idea/
+backend/local.properties
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.local
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Uploads
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# PostgreSQL
+postgresql/
+
+# SSL certificates
+ssl/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
